@@ -388,12 +388,14 @@ nav {
 .sponsor-section{
     margin-bottom: 150px;
     background-color: #2D25A0;
-    padding: 80px;
-    transition: background-color 5s;
+    transition: background-color 2s;
     margin-top: 200px;
+    width: 100%;
+    margin-left: 100px;
+    
 }
 .sponsor-section:hover{
-    background-color: aquamarine;
+    background-color: rgba(235, 161, 22, 0.829);
 }
 .sponsor-title{
     margin-bottom: 80px;
@@ -415,4 +417,5 @@ nav {
     margin-bottom: 50px;
     
 }
+
 }
